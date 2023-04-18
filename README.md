@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrehanna8" alt="andrehanna8" /></a> </p>
 -----
+
 ## About me:
 
 - 🔭 I’m currently working on a clone of Nike called Ekin [Ekin](https://www.clonenike.com/)
@@ -18,6 +19,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1A1jwm99824zl6yoIUkASWgYY_MhewnULhJVM7kYh7U8/edit?usp=sharing](https://docs.google.com/document/d/1A1jwm99824zl6yoIUkASWgYY_MhewnULhJVM7kYh7U8/edit?usp=sharing)
 
 - ⚡ Fun fact **I am Masters in overwatch**
+
 -----
 
 
@@ -27,6 +29,7 @@
 <a href="https://linkedin.com/in/andre-hanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-hanna" height="30" width="40" /></a>
 <a href="https://codesandbox.com/andrehanna8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="andrehanna8" height="30" width="40" /></a>
 </p>
+
 -----
 
 
