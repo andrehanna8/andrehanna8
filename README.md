@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1A1jwm99824zl6yoIUkASWgYY_MhewnULhJVM7kYh7U8/edit?usp=sharing](https://docs.google.com/document/d/1A1jwm99824zl6yoIUkASWgYY_MhewnULhJVM7kYh7U8/edit?usp=sharing)
 
-- ⚡ Fun fact **I am Grandmasters in overwatch**
+- ⚡ Fun fact **I am Grandmaster in overwatch**
 
 -----
 
