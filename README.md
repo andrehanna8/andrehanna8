@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
-<h3 align="center">A clever programmer from Egypt</h3>
+<h3 align="center">A Full-Stack Software Developer/Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrehanna8&label=Profile%20views&color=0e75b6&style=flat" alt="andrehanna8" /> </p>
 
