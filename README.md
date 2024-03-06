@@ -7,7 +7,7 @@
 
 ## About me:
 
-- 🔭 I’m currently working on a clone of Nike called Ekin [Ekin](https://www.clonenike.com/)
+- 🔭 I’m currently working on a clone of Nike called [Ekin](https://www.clonenike.com/)
 
 - Check out my JS data-visualization project about Sneakers [SneakerDial](https://andrehanna8.github.io/SneakerDial/#)
 
