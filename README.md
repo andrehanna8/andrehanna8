@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1iuJq5uZJitK3tUp7GPNuzc2ko9QnDrGltHnit8Tp6F4/edit?usp=sharing)
 
-- ⚡ Fun fact **I am Grandmaster in Overwatch**
-
 -----
 
 
